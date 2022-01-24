@@ -23,6 +23,10 @@ A simple application help user to manage a employee system by prompt user to do 
     npm start
 
 
+## Walkthrough Video 
+https://watch.screencastify.com/v/gLuTZ5ZpLplNzr3iMr62
+
+
 ## Contribution
 
 Made with ❤️ by [Jerry Wei]
